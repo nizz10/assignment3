@@ -1,1 +1,11 @@
 /*styles for assignment 3*/
+body {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+u {
+  color: #558abb;
+}
+
+p {
+  color: red;
+}
